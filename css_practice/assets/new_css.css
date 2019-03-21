@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: cyan
+}
+
+h1 {
+  font-size: 38px
+}
+
+h2 {
+  font-size: 32px
+}
+
+.ingredients-list {
+  list-style: square inside
+}
+
+ol {
+  list-style: circle inside
+}
+
+header img {
+  width: 100px
+}
+
+ul li a {
+  text-decoration: none;
+  color: inherit
+}
+
+.user-review {
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: purple
+}
